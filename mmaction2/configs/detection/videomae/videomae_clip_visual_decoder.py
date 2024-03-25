@@ -113,6 +113,7 @@ train_dataloader = dict(
         pipeline=train_pipeline,
         label_file=label_file,
         proposal_file=proposal_file_train,
+        frame_file = '/opt/data/private/Chaotic_World/annotations/AR_ava_format/frame_num.csv',
         data_prefix=dict(img=data_root)))
 val_dataloader = dict(
     batch_size=1,
@@ -132,6 +133,7 @@ val_dataloader = dict(
         pipeline=val_pipeline,
         label_file=label_file,
         proposal_file=proposal_file_val,
+        frame_file = '/opt/data/private/Chaotic_World/annotations/AR_ava_format/frame_num.csv',
         data_prefix=dict(img=data_root),
         test_mode=True))
 test_dataloader = val_dataloader
