@@ -1,0 +1,250 @@
+label {
+  name: "aiming weapon"
+  label_id: 1
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "arguing"
+  label_id: 2
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "arresting"
+  label_id: 3
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "burning/setting fire"
+  label_id: 4
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "carrying"
+  label_id: 5
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "carrying casualty"
+  label_id: 6
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "chanting/cheering"
+  label_id: 7
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "chasing"
+  label_id: 8
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "clapping"
+  label_id: 9
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "creating barricade"
+  label_id: 10
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "dancing"
+  label_id: 11
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "destroying"
+  label_id: 12
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "extinguishing fire"
+  label_id: 13
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "fighting"
+  label_id: 14
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "guarding"
+  label_id: 15
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "hitting an object/smashing"
+  label_id: 16
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "holding a burning stick"
+  label_id: 17
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "holding flag"
+  label_id: 18
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "holding hands"
+  label_id: 19
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "holding signage"
+  label_id: 20
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "holding weapon"
+  label_id: 21
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "hugging"
+  label_id: 22
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "injured"
+  label_id: 23
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "kneeling"
+  label_id: 24
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "painting"
+  label_id: 25
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "pinning"
+  label_id: 26
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "playing instrument"
+  label_id: 27
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "praying"
+  label_id: 28
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "pulling barricade"
+  label_id: 29
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "punching"
+  label_id: 30
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "pushing"
+  label_id: 31
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "raising fist"
+  label_id: 32
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "raising hands"
+  label_id: 33
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "recording"
+  label_id: 34
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "reporting live"
+  label_id: 35
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "retreating"
+  label_id: 36
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "running/escaping"
+  label_id: 37
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "shooting/firing"
+  label_id: 38
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "shouting"
+  label_id: 39
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "singing"
+  label_id: 40
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "speaking on stage"
+  label_id: 41
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "speaking/talking"
+  label_id: 42
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "spraying"
+  label_id: 43
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "stealing/looting"
+  label_id: 44
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "throwing object"
+  label_id: 45
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "walking"
+  label_id: 46
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "watching"
+  label_id: 47
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "waving flag"
+  label_id: 48
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "waving flarestick"
+  label_id: 49
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "waving hands"
+  label_id: 50
+  label_type: PERSON_MOVEMENT
+}
